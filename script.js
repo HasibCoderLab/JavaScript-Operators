@@ -13,14 +13,20 @@ console.log(a-b)
 
 // ============== practice Problem 👉👉 3 ==============
 
-const c = 42;
+const c = 41;
  d = 2;
 
 console.log(c*d)
 
-// ============== practice Problem 👉👉 4 ==============
+// ============== practice Problem 👉👉 4 ============== 
 
 let e = 40;
 e = 50 ;
 
 console.log(e/e);
+
+// ============== practice Problem 👉👉 5 ============== 
+
+let f = 5;
+let g = 5;
+console.log(f**g)
