@@ -8,5 +8,5 @@ console.log(x+y);
 // ============== practice Problem 👉👉 2 ==============
 
 let a = 58;
-let b = 19;
+let b = 20;
 console.log(a-b)
