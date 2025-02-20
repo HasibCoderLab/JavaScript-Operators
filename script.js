@@ -10,3 +10,10 @@ console.log(x+y);
 let a = 58;
 let b = 20;
 console.log(a-b)
+
+// ============== practice Problem 👉👉 3 ==============
+
+const c = 41;
+const d = 2;
+ 
+console.log(c*d)
